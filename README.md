@@ -2,3 +2,4 @@
 Sike Design Class by spareribes
 
 First Lesson - Sketch first impression
+Second Lesson - Typography
