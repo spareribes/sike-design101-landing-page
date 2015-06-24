@@ -1,4 +1,4 @@
 # sike-design101-landing-page
 Sike Design Class by spareribes
 
-First Lesson - Sketch basic operation
+First Lesson - Sketch first impression
